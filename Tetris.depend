@@ -1,0 +1,681 @@
+# depslib dependency file v1.0
+1406566579 source:c:\users\user\onedrive\protected\c++\tetris\versiunea 1\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"variables.h"
+	"structs.h"
+	"game.h"
+
+1406566587 c:\users\user\onedrive\protected\c++\tetris\versiunea 1\game.h
+
+1406563050 c:\users\user\onedrive\protected\c++\tetris\versiunea 1\variables.h
+
+1406563016 c:\users\user\onedrive\protected\c++\tetris\versiunea 1\structs.h
+
+1406646243 source:c:\users\user\onedrive\protected\c++\tetris\versiunea 2\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"variables.h"
+	"structs.h"
+	"keyboard.h"
+	"game.h"
+
+1406640840 c:\users\user\onedrive\protected\c++\tetris\versiunea 2\variables.h
+
+1406629919 c:\users\user\onedrive\protected\c++\tetris\versiunea 2\structs.h
+
+1406651134 c:\users\user\onedrive\protected\c++\tetris\versiunea 2\game.h
+
+1406630096 c:\users\user\onedrive\protected\c++\tetris\versiunea 2\keyboard.h
+
+1407007416 source:c:\users\user\onedrive\protected\c++\tetris\versiunea 3\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"variables.h"
+	"structs.h"
+	"game.h"
+	"keyboard.h"
+
+1406807809 c:\users\user\onedrive\protected\c++\tetris\versiunea 3\variables.h
+
+1406629919 c:\users\user\onedrive\protected\c++\tetris\versiunea 3\structs.h
+
+1406817091 c:\users\user\onedrive\protected\c++\tetris\versiunea 3\game.h
+
+1406808379 c:\users\user\onedrive\protected\c++\tetris\versiunea 3\keyboard.h
+
+1407079507 source:c:\users\user\onedrive\protected\c++\tetris\versiunea 4\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"variables.h"
+	"structs.h"
+	"game.h"
+	"keyboard.h"
+
+1407068189 c:\users\user\onedrive\protected\c++\tetris\versiunea 4\variables.h
+
+1407068182 c:\users\user\onedrive\protected\c++\tetris\versiunea 4\structs.h
+
+1407079634 c:\users\user\onedrive\protected\c++\tetris\versiunea 4\game.h
+
+1407066319 c:\users\user\onedrive\protected\c++\tetris\versiunea 4\keyboard.h
+
+1407253944 source:c:\users\user\onedrive\protected\c++\tetris\versiunea 5\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"variables.h"
+	"structs.h"
+	"test.h"
+	"game.h"
+	"keyboard.h"
+	"table.h"
+
+1407154481 c:\users\user\onedrive\protected\c++\tetris\versiunea 5\variables.h
+
+1407247474 c:\users\user\onedrive\protected\c++\tetris\versiunea 5\structs.h
+
+1407254109 c:\users\user\onedrive\protected\c++\tetris\versiunea 5\game.h
+
+1407066319 c:\users\user\onedrive\protected\c++\tetris\versiunea 5\keyboard.h
+
+1407154311 c:\users\user\onedrive\protected\c++\tetris\versiunea 5\table.h
+
+1407254084 c:\users\user\onedrive\protected\c++\tetris\versiunea 5\test.h
+
+1407346839 source:c:\users\user\onedrive\protected\c++\tetris\versiunea 6\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"variables.h"
+	"structs.h"
+	"test.h"
+	"game.h"
+	"keyboard.h"
+	"table.h"
+
+1407342672 c:\users\user\onedrive\protected\c++\tetris\versiunea 6\variables.h
+
+1407247474 c:\users\user\onedrive\protected\c++\tetris\versiunea 6\structs.h
+
+1407346823 c:\users\user\onedrive\protected\c++\tetris\versiunea 6\test.h
+
+1407346366 c:\users\user\onedrive\protected\c++\tetris\versiunea 6\game.h
+
+1407329116 c:\users\user\onedrive\protected\c++\tetris\versiunea 6\keyboard.h
+
+1407154311 c:\users\user\onedrive\protected\c++\tetris\versiunea 6\table.h
+
+1407568663 source:c:\users\user\onedrive\protected\c++\tetris\versiunea 7\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"sound.h"
+	"variables.h"
+	"structs.h"
+	"test.h"
+	"game.h"
+	"keyboard.h"
+	"table.h"
+
+1407246578 c:\users\user\onedrive\protected\c++\tetris\versiunea 7\sound.h
+
+1407570186 c:\users\user\onedrive\protected\c++\tetris\versiunea 7\variables.h
+
+1407408117 c:\users\user\onedrive\protected\c++\tetris\versiunea 7\structs.h
+
+1407412491 c:\users\user\onedrive\protected\c++\tetris\versiunea 7\test.h
+
+1407570199 c:\users\user\onedrive\protected\c++\tetris\versiunea 7\game.h
+
+1407434391 c:\users\user\onedrive\protected\c++\tetris\versiunea 7\keyboard.h
+
+1407439144 c:\users\user\onedrive\protected\c++\tetris\versiunea 7\table.h
+
+1408977463 source:c:\users\user\onedrive\protected\c++\tetris\versiunea 8\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"sound.h"
+	"variables.h"
+	"test.h"
+	"game.h"
+	"keyboard.h"
+	"table.h"
+
+1407246578 c:\users\user\onedrive\protected\c++\tetris\versiunea 8\sound.h
+
+1408979092 c:\users\user\onedrive\protected\c++\tetris\versiunea 8\variables.h
+
+1407408117 c:\users\user\onedrive\protected\c++\tetris\versiunea 8\structs.h
+
+1407412491 c:\users\user\onedrive\protected\c++\tetris\versiunea 8\test.h
+
+1408981520 c:\users\user\onedrive\protected\c++\tetris\versiunea 8\game.h
+
+1407434391 c:\users\user\onedrive\protected\c++\tetris\versiunea 8\keyboard.h
+
+1408977955 c:\users\user\onedrive\protected\c++\tetris\versiunea 8\table.h
+
+1408977463 source:c:\users\user\onedrive\protected\c++\tetris\versiunea 10\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"sound.h"
+	"variables.h"
+	"test.h"
+	"game.h"
+	"keyboard.h"
+	"table.h"
+
+1407246578 c:\users\user\onedrive\protected\c++\tetris\versiunea 10\sound.h
+
+1408979092 c:\users\user\onedrive\protected\c++\tetris\versiunea 10\variables.h
+
+1407412491 c:\users\user\onedrive\protected\c++\tetris\versiunea 10\test.h
+
+1409061512 c:\users\user\onedrive\protected\c++\tetris\versiunea 10\game.h
+
+1407434391 c:\users\user\onedrive\protected\c++\tetris\versiunea 10\keyboard.h
+
+1408977955 c:\users\user\onedrive\protected\c++\tetris\versiunea 10\table.h
+
+1409493024 source:c:\users\user\onedrive\protected\c++\tetris\versiunea 11\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"sound.h"
+	"variables.h"
+	"test.h"
+	"game.h"
+	"keyboard.h"
+	"table.h"
+
+1407246578 c:\users\user\onedrive\protected\c++\tetris\versiunea 11\sound.h
+
+1409493048 c:\users\user\onedrive\protected\c++\tetris\versiunea 11\variables.h
+
+1409492972 c:\users\user\onedrive\protected\c++\tetris\versiunea 11\test.h
+
+1409492885 c:\users\user\onedrive\protected\c++\tetris\versiunea 11\game.h
+
+1407434391 c:\users\user\onedrive\protected\c++\tetris\versiunea 11\keyboard.h
+
+1408977955 c:\users\user\onedrive\protected\c++\tetris\versiunea 11\table.h
+
+1409494376 source:c:\users\user\onedrive\protected\c++\tetris\versiunea 12\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"sound.h"
+	"variables.h"
+	"test.h"
+	"game.h"
+	"keyboard.h"
+	"table.h"
+
+1409494272 c:\users\user\onedrive\protected\c++\tetris\versiunea 12\sound.h
+
+1409493048 c:\users\user\onedrive\protected\c++\tetris\versiunea 12\variables.h
+
+1409492972 c:\users\user\onedrive\protected\c++\tetris\versiunea 12\test.h
+
+1409492885 c:\users\user\onedrive\protected\c++\tetris\versiunea 12\game.h
+
+1407434391 c:\users\user\onedrive\protected\c++\tetris\versiunea 12\keyboard.h
+
+1408977955 c:\users\user\onedrive\protected\c++\tetris\versiunea 12\table.h
+
+1409494376 source:c:\users\user\desktop\versiunea 12\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"sound.h"
+	"variables.h"
+	"test.h"
+	"game.h"
+	"keyboard.h"
+	"table.h"
+
+1409494272 c:\users\user\desktop\versiunea 12\sound.h
+
+1409493048 c:\users\user\desktop\versiunea 12\variables.h
+
+1409492972 c:\users\user\desktop\versiunea 12\test.h
+
+1409492885 c:\users\user\desktop\versiunea 12\game.h
+
+1407434391 c:\users\user\desktop\versiunea 12\keyboard.h
+
+1408977955 c:\users\user\desktop\versiunea 12\table.h
+
+1409494376 source:c:\users\user\desktop\thread test\versiunea 12\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"sound.h"
+	"variables.h"
+	"test.h"
+	"game.h"
+	"keyboard.h"
+	"table.h"
+
+1409494272 c:\users\user\desktop\thread test\versiunea 12\sound.h
+
+1409493048 c:\users\user\desktop\thread test\versiunea 12\variables.h
+
+1409492972 c:\users\user\desktop\thread test\versiunea 12\test.h
+
+1409492885 c:\users\user\desktop\thread test\versiunea 12\game.h
+
+1407434391 c:\users\user\desktop\thread test\versiunea 12\keyboard.h
+
+1408977955 c:\users\user\desktop\thread test\versiunea 12\table.h
+
+1409494376 source:c:\users\user\onedrive\protected\c++\tetris\versiunea 12 veche\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"sound.h"
+	"variables.h"
+	"test.h"
+	"game.h"
+	"keyboard.h"
+	"table.h"
+
+1409500732 c:\users\user\onedrive\protected\c++\tetris\versiunea 12 veche\sound.h
+
+1409493048 c:\users\user\onedrive\protected\c++\tetris\versiunea 12 veche\variables.h
+
+1409492972 c:\users\user\onedrive\protected\c++\tetris\versiunea 12 veche\test.h
+
+1409492885 c:\users\user\onedrive\protected\c++\tetris\versiunea 12 veche\game.h
+
+1407434391 c:\users\user\onedrive\protected\c++\tetris\versiunea 12 veche\keyboard.h
+
+1408977955 c:\users\user\onedrive\protected\c++\tetris\versiunea 12 veche\table.h
+
+1409587681 source:c:\users\user\onedrive\protected\c++\tetris\versiunea 13\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"variables.h"
+	"sound.h"
+	"test.h"
+	"game.h"
+	"keyboard.h"
+	"table.h"
+
+1409573200 c:\users\user\onedrive\protected\c++\tetris\versiunea 13\sound.h
+
+1409598684 c:\users\user\onedrive\protected\c++\tetris\versiunea 13\variables.h
+
+1409588845 c:\users\user\onedrive\protected\c++\tetris\versiunea 13\test.h
+
+1409669022 c:\users\user\onedrive\protected\c++\tetris\versiunea 13\game.h
+
+1409598578 c:\users\user\onedrive\protected\c++\tetris\versiunea 13\keyboard.h
+
+1409591241 c:\users\user\onedrive\protected\c++\tetris\versiunea 13\table.h
+
+1411056571 source:c:\users\user\onedrive\protected\c++\tetris\versiunea 14\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"variables.h"
+	"sound.h"
+	"test.h"
+	"table.h"
+	"game.h"
+	"keyboard.h"
+
+1411060362 c:\users\user\onedrive\protected\c++\tetris\versiunea 14\variables.h
+
+1411056622 c:\users\user\onedrive\protected\c++\tetris\versiunea 14\sound.h
+
+1411061172 c:\users\user\onedrive\protected\c++\tetris\versiunea 14\test.h
+
+1411048634 c:\users\user\onedrive\protected\c++\tetris\versiunea 14\game.h
+
+1411040017 c:\users\user\onedrive\protected\c++\tetris\versiunea 14\keyboard.h
+
+1411060319 c:\users\user\onedrive\protected\c++\tetris\versiunea 14\table.h
+
+1411247117 source:c:\users\user\onedrive\protected\c++\tetris\versiunea 15\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"variables.h"
+	"sound.h"
+	"test.h"
+	"game.h"
+	"table.h"
+	"keyboard.h"
+
+1411247169 c:\users\user\onedrive\protected\c++\tetris\versiunea 15\variables.h
+
+1411145776 c:\users\user\onedrive\protected\c++\tetris\versiunea 15\sound.h
+
+1411124377 c:\users\user\onedrive\protected\c++\tetris\versiunea 15\test.h
+
+1411244024 c:\users\user\onedrive\protected\c++\tetris\versiunea 15\table.h
+
+1411245804 c:\users\user\onedrive\protected\c++\tetris\versiunea 15\game.h
+
+1411245804 c:\users\user\onedrive\protected\c++\tetris\versiunea 15\keyboard.h
+
+1411408132 source:c:\users\user\onedrive\protected\c++\tetris\versiunea 15 buna\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"variables.h"
+	"sound.h"
+	"test.h"
+	"game.h"
+	"table.h"
+	"keyboard.h"
+
+1411247169 c:\users\user\onedrive\protected\c++\tetris\versiunea 15 buna\variables.h
+
+1411145776 c:\users\user\onedrive\protected\c++\tetris\versiunea 15 buna\sound.h
+
+1411833481 c:\users\user\onedrive\protected\c++\tetris\versiunea 15 buna\test.h
+
+1411245804 c:\users\user\onedrive\protected\c++\tetris\versiunea 15 buna\game.h
+
+1411244024 c:\users\user\onedrive\protected\c++\tetris\versiunea 15 buna\table.h
+
+1411245804 c:\users\user\onedrive\protected\c++\tetris\versiunea 15 buna\keyboard.h
+
+1411837946 source:c:\users\user\onedrive\protected\c++\tetris\versiunea 16\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	"protect.h"
+	"variables.h"
+	"sound.h"
+	"test.h"
+	"game.h"
+	"table.h"
+	"keyboard.h"
+
+1411838345 c:\users\user\onedrive\protected\c++\tetris\versiunea 16\protect.h
+
+1411247169 c:\users\user\onedrive\protected\c++\tetris\versiunea 16\variables.h
+
+1411145776 c:\users\user\onedrive\protected\c++\tetris\versiunea 16\sound.h
+
+1411833481 c:\users\user\onedrive\protected\c++\tetris\versiunea 16\test.h
+
+1411245804 c:\users\user\onedrive\protected\c++\tetris\versiunea 16\game.h
+
+1411244024 c:\users\user\onedrive\protected\c++\tetris\versiunea 16\table.h
+
+1411245804 c:\users\user\onedrive\protected\c++\tetris\versiunea 16\keyboard.h
+
+1414435341 source:c:\users\user\onedrive\protected\c++\tetris\versiunea 17\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<string.h>
+	"variables.h"
+	"sound.h"
+	"test.h"
+	"game.h"
+	"table.h"
+	"keyboard.h"
+	"menu.h"
+
+1414435330 c:\users\user\onedrive\protected\c++\tetris\versiunea 17\variables.h
+
+1414435384 c:\users\user\onedrive\protected\c++\tetris\versiunea 17\sound.h
+
+1414435296 c:\users\user\onedrive\protected\c++\tetris\versiunea 17\test.h
+
+1413561931 c:\users\user\onedrive\protected\c++\tetris\versiunea 17\game.h
+
+1414435384 c:\users\user\onedrive\protected\c++\tetris\versiunea 17\table.h
+
+1414435384 c:\users\user\onedrive\protected\c++\tetris\versiunea 17\keyboard.h
+
+1412424198 c:\users\user\onedrive\protected\c++\tetris\versiunea 17\menu.h
+
+1428480837 source:c:\users\dorin\onedrive\protected\c++\tetris\versiunea 17\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<string.h>
+	"variables.h"
+	"sound.h"
+	"test.h"
+	"game.h"
+	"table.h"
+	"keyboard.h"
+	"menu.h"
+
+1414435330 c:\users\dorin\onedrive\protected\c++\tetris\versiunea 17\variables.h
+
+1414435384 c:\users\dorin\onedrive\protected\c++\tetris\versiunea 17\sound.h
+
+1414435296 c:\users\dorin\onedrive\protected\c++\tetris\versiunea 17\test.h
+
+1428480837 c:\users\dorin\onedrive\protected\c++\tetris\versiunea 17\game.h
+
+1414435384 c:\users\dorin\onedrive\protected\c++\tetris\versiunea 17\table.h
+
+1414435384 c:\users\dorin\onedrive\protected\c++\tetris\versiunea 17\keyboard.h
+
+1412424198 c:\users\dorin\onedrive\protected\c++\tetris\versiunea 17\menu.h
+
+1448131351 source:c:\users\dorin\onedrive\protected\atestat\versiunea 18\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<string.h>
+	"variables.h"
+	"sound.h"
+	"test.h"
+	"game.h"
+	"table.h"
+	"keyboard.h"
+	"menu.h"
+
+1447587840 c:\users\dorin\onedrive\protected\atestat\versiunea 18\variables.h
+
+1448128104 c:\users\dorin\onedrive\protected\atestat\versiunea 18\sound.h
+
+1414435296 c:\users\dorin\onedrive\protected\atestat\versiunea 18\test.h
+
+1448131484 c:\users\dorin\onedrive\protected\atestat\versiunea 18\game.h
+
+1448128104 c:\users\dorin\onedrive\protected\atestat\versiunea 18\table.h
+
+1448128072 c:\users\dorin\onedrive\protected\atestat\versiunea 18\keyboard.h
+
+1448129639 c:\users\dorin\onedrive\protected\atestat\versiunea 18\menu.h
+
+1458329771 source:c:\users\dorin\onedrive\protected\atestat\tetris\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<string.h>
+	"variables.h"
+	"sound.h"
+	"test.h"
+	"game.h"
+	"table.h"
+	"keyboard.h"
+	"menu.h"
+
+1447591440 c:\users\dorin\onedrive\protected\atestat\tetris\variables.h
+
+1448131704 c:\users\dorin\onedrive\protected\atestat\tetris\sound.h
+
+1414438896 c:\users\dorin\onedrive\protected\atestat\tetris\test.h
+
+1458329830 c:\users\dorin\onedrive\protected\atestat\tetris\game.h
+
+1458329857 c:\users\dorin\onedrive\protected\atestat\tetris\table.h
+
+1465127420 c:\users\dorin\onedrive\protected\atestat\tetris\keyboard.h
+
+1465127526 c:\users\dorin\onedrive\protected\atestat\tetris\menu.h
+
+1481489337 source:c:\users\dorin\onedrive\protected\c++\tetris\versiunea 18\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<string.h>
+	"variables.h"
+	"sound.h"
+	"test.h"
+	"game.h"
+	"table.h"
+	"keyboard.h"
+	"menu.h"
+
+1465127927 c:\users\dorin\onedrive\protected\c++\tetris\versiunea 18\variables.h
+
+1448131704 c:\users\dorin\onedrive\protected\c++\tetris\versiunea 18\sound.h
+
+1414438896 c:\users\dorin\onedrive\protected\c++\tetris\versiunea 18\test.h
+
+1458329830 c:\users\dorin\onedrive\protected\c++\tetris\versiunea 18\game.h
+
+1458329857 c:\users\dorin\onedrive\protected\c++\tetris\versiunea 18\table.h
+
+1465127663 c:\users\dorin\onedrive\protected\c++\tetris\versiunea 18\keyboard.h
+
+1465127526 c:\users\dorin\onedrive\protected\c++\tetris\versiunea 18\menu.h
+
+1481489337 source:c:\users\dorin\desktop\mines\main.cpp
+	<iostream>
+	<conio.h>
+	<thread>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<string.h>
+	"variables.h"
+	"sound.h"
+	"test.h"
+	"game.h"
+	"table.h"
+	"keyboard.h"
+	"menu.h"
+
+1465127927 c:\users\dorin\desktop\mines\variables.h
+
+1448131704 c:\users\dorin\desktop\mines\sound.h
+
+1414438896 c:\users\dorin\desktop\mines\test.h
+
+1458329830 c:\users\dorin\desktop\mines\game.h
+
+1458329857 c:\users\dorin\desktop\mines\table.h
+
+1465127663 c:\users\dorin\desktop\mines\keyboard.h
+
+1465127526 c:\users\dorin\desktop\mines\menu.h
+

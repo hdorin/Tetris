@@ -1,0 +1,26 @@
+CONTROLS
+-Press left/right arrow to move sideways;
+-Press down arrow to move down;
+-Press up arrow to rotate;
+-Press Space to fall;
+-Press Backspace to pause (score and clock will turn red)
+-Press R if you encounter visual bugs;
+
+FEATURES
+-Advanced rotation algorithm to prevent overwrite and/or aid rotation;
+-Partially fixed this bug -> http://en.wikipedia.org/wiki/Tetris#mediaviewer/File:Tetris_gravity_%28natural%29.png
+  -Ex: an entire shape will fall down IF it is not connected to something else that leads the bottom;
+-Soundtrack is always active and selected randomly durign a game;
+-WAVE files have dynamic path (they'll be found by the executable as long as "Sounds" is in the same directory with it);
+-New game begins automatically on end;
+
+SCORE
++1 per move down;
++100 per cleared line;
+ -if there is a combo score will be 1+2+..(lines number) X 100;
+
+NOTES
+-The red lines are ment to clear some kind of color bug on the edges;
+-You need to adjust your cmd window's properties accordingly;
+ (it uses MS Windows' default settings)
+-This program uses Windows API to slow down the program;
